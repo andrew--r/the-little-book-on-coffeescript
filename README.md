@@ -1,4 +1,4 @@
-[The Little Book on CoffeeScript](https://andrew--r.github.io/the-little-book-on-coffeescript)
+The Little Book on CoffeeScript
 ===============================
 
 Это — вольный перевод книги «The Little Book on CoffeeScript», написанной [Алексом МакКоу][1] ([@macman][2]) с помощью Давида Гриффитса, [Сатоши Мураками][3] и [Джереми Ашкеназа][4]. Переводчик — [Андрей Романов][5].
